@@ -22,3 +22,7 @@
 ### Sicher und geordnet: VMs mit Stil herunterfahren / Safe and sorted: VMs-style shutdown
 - Beschreibung: https://ninjaonefaq.dcms.site/post/Sicher-und-geordnet-VMs-mit-Stil-herunterfahren
 - Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.b1691819-647fb772-0bc263a3-74722d776562/https/ninjaonefaq.dcms.site/post/Sicher-und-geordnet-VMs-mit-Stil-herunterfahren
+
+### NinjaOne RMM: Nie wieder ein auslaufendes Zertifikat vergessen! / https://translated.turbopages.org/proxy_u/de-en.en.c04c0c32-647fb87b-24016ea1-74722d776562/https/ninjaonefaq.dcms.site/post/NinjaOne-RMM-Nie-wieder-ein-auslaufendes-Zertifikat-vergessen
+- Beschreibung: https://ninjaonefaq.dcms.site/post/NinjaOne-RMM-Nie-wieder-ein-auslaufendes-Zertifikat-vergessen
+- Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.c04c0c32-647fb87b-24016ea1-74722d776562/https/ninjaonefaq.dcms.site/post/NinjaOne-RMM-Nie-wieder-ein-auslaufendes-Zertifikat-vergessen
