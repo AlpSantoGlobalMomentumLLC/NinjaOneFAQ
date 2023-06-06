@@ -2,6 +2,12 @@
 - https://ninjaonefaq.dcms.site/
 - https://www.linkedin.com/in/axellenz/
 
+## Wichtige Gedanken nicht nur für das NinjaOne RMM - Relevant für jeden MSP und jedes Systemhaus das ein Monitoring hat oder einführt.
+## Important ideas, not only for the NinjaOne RMM Relevant for each MSP and every system in the house that has a Monitoring or imports.
+- Artikel: https://ninjaonefaq.dcms.site/post/beets-conserve-coffee-indian-salami-herbs-aroma-wine-cupcake-whipped-cream-m-qbb-hgoflcdo
+- Artical AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.cf253ab3-647fbf3d-473b1b86-74722d776562/https/ninjaonefaq.dcms.site/post/beets-conserve-coffee-indian-salami-herbs-aroma-wine-cupcake-whipped-cream-m-qbb-hgoflcdo
+
+
 ### The ultimate Pending Reboot Script: The trigger for the User Nagging Script NinjaOne RMM
 - Beschreibung: https://ninjaonefaq.dcms.site/post/Das-ultimative-Pending-Reboot-Script-Der-Ausloser-fur-das-User-Nagging-Script-NinjaOne-RMM
 - Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.4f33b3a3-647fae72-fca390c4-74722d776562/https/ninjaonefaq.dcms.site/post/Das-ultimative-Pending-Reboot-Script-Der-Ausloser-fur-das-User-Nagging-Script-NinjaOne-RMM
