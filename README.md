@@ -2,7 +2,7 @@
 https://ninjaonefaq.dcms.site/
 https://www.linkedin.com/in/axellenz/
 
-#### The ultimate Pending Reboot Script: The trigger for the User Nagging Script NinjaOne RMM
+### The ultimate Pending Reboot Script: The trigger for the User Nagging Script NinjaOne RMM
 - Beschreibung: https://ninjaonefaq.dcms.site/post/Das-ultimative-Pending-Reboot-Script-Der-Ausloser-fur-das-User-Nagging-Script-NinjaOne-RMM
 - Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.4f33b3a3-647fae72-fca390c4-74722d776562/https/ninjaonefaq.dcms.site/post/Das-ultimative-Pending-Reboot-Script-Der-Ausloser-fur-das-User-Nagging-Script-NinjaOne-RMM
 
@@ -10,10 +10,10 @@ https://www.linkedin.com/in/axellenz/
 - Beschreibung: https://ninjaonefaq.dcms.site/post/NinjaOne-de-User-Nerv-Neustart-Skript-mit-GUI-und-Aufschub
 - Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.8e5adcd6-647fb1db-de268456-74722d776562/https/ninjaonefaq.dcms.site/post/NinjaOne-de-User-Nerv-Neustart-Skript-mit-GUI-und-Aufschub
 
-## PowerShell trifft auf Microsoft Teams: WebHooks für NinjaOne RMM und mehr / PowerShell Meets Microsoft Teams: WebHooks for NinjaOne RMM and More
+### PowerShell trifft auf Microsoft Teams: WebHooks für NinjaOne RMM und mehr / PowerShell Meets Microsoft Teams: WebHooks for NinjaOne RMM and More
 - Beschreibung: https://ninjaonefaq.dcms.site/post/PowerShell-trifft-auf-Microsoft-Teams-WebHooks-fur-NinjaOne-RMM-und-mehr
 - Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.09430a0b-647fb4d5-b56b6ae2-74722d776562/https/ninjaonefaq.dcms.site/post/PowerShell-trifft-auf-Microsoft-Teams-WebHooks-fur-NinjaOne-RMM-und-mehr
 
-## Recognize attacks due to failed login attempts (Win) - safe with NinjaOne RMM / Erkenne Angriffe durch fehlgeschlagene Anmeldeversuche (Win) - sicher mit NinjaOne RMM
+### Recognize attacks due to failed login attempts (Win) - safe with NinjaOne RMM / Erkenne Angriffe durch fehlgeschlagene Anmeldeversuche (Win) - sicher mit NinjaOne RMM
 - https://ninjaonefaq.dcms.site/post/Erkenne-Angriffe-durch-fehlgeschlagene-Anmeldeversuche-Win-sicher-mit-NinjaOne-RMM
 - https://translated.turbopages.org/proxy_u/de-en.en.052ab67b-647fb5f4-d6909c31-74722d776562/https/ninjaonefaq.dcms.site/post/Erkenne-Angriffe-durch-fehlgeschlagene-Anmeldeversuche-Win-sicher-mit-NinjaOne-RMM
