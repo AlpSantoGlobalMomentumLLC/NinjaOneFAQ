@@ -34,3 +34,8 @@
 ### NinjaOne RMM: Gekonnt erweitert um die Windows Server Rollen / NinjaOne RMM: Skillfully added to the Windows Server roles
 - Beschreibung: https://ninjaonefaq.dcms.site/post/NinjaOne-RMM-Gekonnt-erweitert-um-die-Windows-Server-Rollen
 - Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.9baf5773-647fbb2c-d3fa80c7-74722d776562/https/ninjaonefaq.dcms.site/post/NinjaOne-RMM-Gekonnt-erweitert-um-die-Windows-Server-Rollen
+
+### NinjaOne RMM Custom Felder für das Winget Patchmanagement / NinjaOne RMM Custom fields for the Winget patch management
+- Work in Progress: On some PCs false Syntax Errors
+- Beschreibung: https://ninjaonefaq.dcms.site/post/NinjaOne-RMM-Custom-Felder-fur-das-Winget-Patchmanagement
+- Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.d4112092-647fbbf6-96e6bd9b-74722d776562/https/ninjaonefaq.dcms.site/post/NinjaOne-RMM-Custom-Felder-fur-das-Winget-Patchmanagement
