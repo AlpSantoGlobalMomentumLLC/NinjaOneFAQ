@@ -1,6 +1,6 @@
 # NinjaOneFAQ
-https://ninjaonefaq.dcms.site/
-https://www.linkedin.com/in/axellenz/
+- https://ninjaonefaq.dcms.site/
+- https://www.linkedin.com/in/axellenz/
 
 ### The ultimate Pending Reboot Script: The trigger for the User Nagging Script NinjaOne RMM
 - Beschreibung: https://ninjaonefaq.dcms.site/post/Das-ultimative-Pending-Reboot-Script-Der-Ausloser-fur-das-User-Nagging-Script-NinjaOne-RMM
