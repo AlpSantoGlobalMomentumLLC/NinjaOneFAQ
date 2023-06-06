@@ -39,3 +39,8 @@
 - Work in Progress: On some PCs false Syntax Errors
 - Beschreibung: https://ninjaonefaq.dcms.site/post/NinjaOne-RMM-Custom-Felder-fur-das-Winget-Patchmanagement
 - Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.d4112092-647fbbf6-96e6bd9b-74722d776562/https/ninjaonefaq.dcms.site/post/NinjaOne-RMM-Custom-Felder-fur-das-Winget-Patchmanagement
+
+### NinjaOne RMM, Intune und Co: Vereinfache Dein Patchmanagement mit dem Winget Script (10k SW P.) / NinjaOne RMM, Intune and Co.: simplify Your patch management with the Winget Script (10k SW. p.)
+- Work in Progress: On some PCs false Syntax Errors
+- Beschreibung: https://ninjaonefaq.dcms.site/post/NinjaOne-RMM-Intune-und-Co-Vereinfache-Dein-Patchmanagement-mit-dem-Winget-Script-10k-SW-P
+- Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.9b4ab6fc-647fbce7-30195a51-74722d776562/https/ninjaonefaq.dcms.site/post/NinjaOne-RMM-Intune-und-Co-Vereinfache-Dein-Patchmanagement-mit-dem-Winget-Script-10k-SW-P
