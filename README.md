@@ -30,3 +30,7 @@
 ### NinjaOne RMM: VM-Hosts auf dem VM-Client anzeigen m. Github sync. / NinjaOne RMM: VM-host-to-VM view Client from m. Github sync.
 - Beschreibung: https://ninjaonefaq.dcms.site/post/NinjaOne-RMM-VM-Hosts-auf-dem-VM-Client-anzeigen
 - Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.46aa5c51-647fb980-da8ff9b8-74722d776562/https/ninjaonefaq.dcms.site/post/NinjaOne-RMM-VM-Hosts-auf-dem-VM-Client-anzeigen
+
+### NinjaOne RMM: Gekonnt erweitert um die Windows Server Rollen / NinjaOne RMM: Skillfully added to the Windows Server roles
+- Beschreibung: https://ninjaonefaq.dcms.site/post/NinjaOne-RMM-Gekonnt-erweitert-um-die-Windows-Server-Rollen
+- Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.9baf5773-647fbb2c-d3fa80c7-74722d776562/https/ninjaonefaq.dcms.site/post/NinjaOne-RMM-Gekonnt-erweitert-um-die-Windows-Server-Rollen
