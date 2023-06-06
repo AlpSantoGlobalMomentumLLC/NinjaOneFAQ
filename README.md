@@ -15,5 +15,5 @@
 - Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.09430a0b-647fb4d5-b56b6ae2-74722d776562/https/ninjaonefaq.dcms.site/post/PowerShell-trifft-auf-Microsoft-Teams-WebHooks-fur-NinjaOne-RMM-und-mehr
 
 ### Recognize attacks due to failed login attempts (Win) - safe with NinjaOne RMM / Erkenne Angriffe durch fehlgeschlagene Anmeldeversuche (Win) - sicher mit NinjaOne RMM
-- https://ninjaonefaq.dcms.site/post/Erkenne-Angriffe-durch-fehlgeschlagene-Anmeldeversuche-Win-sicher-mit-NinjaOne-RMM
-- https://translated.turbopages.org/proxy_u/de-en.en.052ab67b-647fb5f4-d6909c31-74722d776562/https/ninjaonefaq.dcms.site/post/Erkenne-Angriffe-durch-fehlgeschlagene-Anmeldeversuche-Win-sicher-mit-NinjaOne-RMM
+- Beschreibung: https://ninjaonefaq.dcms.site/post/Erkenne-Angriffe-durch-fehlgeschlagene-Anmeldeversuche-Win-sicher-mit-NinjaOne-RMM
+- Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.052ab67b-647fb5f4-d6909c31-74722d776562/https/ninjaonefaq.dcms.site/post/Erkenne-Angriffe-durch-fehlgeschlagene-Anmeldeversuche-Win-sicher-mit-NinjaOne-RMM
