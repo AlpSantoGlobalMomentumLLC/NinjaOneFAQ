@@ -10,3 +10,6 @@ https://www.linkedin.com/in/axellenz/
 - Beschreibung: https://ninjaonefaq.dcms.site/post/NinjaOne-de-User-Nerv-Neustart-Skript-mit-GUI-und-Aufschub
 - Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.8e5adcd6-647fb1db-de268456-74722d776562/https/ninjaonefaq.dcms.site/post/NinjaOne-de-User-Nerv-Neustart-Skript-mit-GUI-und-Aufschub
 
+## PowerShell trifft auf Microsoft Teams: WebHooks für NinjaOne RMM und mehr / PowerShell Meets Microsoft Teams: WebHooks for NinjaOne RMM and More
+- Beschreibung: https://ninjaonefaq.dcms.site/post/PowerShell-trifft-auf-Microsoft-Teams-WebHooks-fur-NinjaOne-RMM-und-mehr
+- Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.09430a0b-647fb4d5-b56b6ae2-74722d776562/https/ninjaonefaq.dcms.site/post/PowerShell-trifft-auf-Microsoft-Teams-WebHooks-fur-NinjaOne-RMM-und-mehr
