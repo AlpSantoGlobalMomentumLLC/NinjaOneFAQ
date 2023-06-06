@@ -26,3 +26,7 @@
 ### NinjaOne RMM: Nie wieder ein auslaufendes Zertifikat vergessen! / NinjaOne RMM: Never again a leaking certificate forget!
 - Beschreibung: https://ninjaonefaq.dcms.site/post/NinjaOne-RMM-Nie-wieder-ein-auslaufendes-Zertifikat-vergessen
 - Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.c04c0c32-647fb87b-24016ea1-74722d776562/https/ninjaonefaq.dcms.site/post/NinjaOne-RMM-Nie-wieder-ein-auslaufendes-Zertifikat-vergessen
+
+### NinjaOne RMM: VM-Hosts auf dem VM-Client anzeigen m. Github sync. / NinjaOne RMM: VM-host-to-VM view Client from m. Github sync.
+- Beschreibung: https://ninjaonefaq.dcms.site/post/NinjaOne-RMM-VM-Hosts-auf-dem-VM-Client-anzeigen
+- Description AutoTranslated: https://translated.turbopages.org/proxy_u/de-en.en.46aa5c51-647fb980-da8ff9b8-74722d776562/https/ninjaonefaq.dcms.site/post/NinjaOne-RMM-VM-Hosts-auf-dem-VM-Client-anzeigen
